@@ -1,5 +1,7 @@
 # Teikk 's Setting Code
 Background terminal: #243236
+Text Color: #CCCCCC
+Cursor Color: #F5F5F5
 ```
 .
 ├── README.md
